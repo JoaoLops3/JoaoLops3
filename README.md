@@ -1,19 +1,57 @@
-# Olá, sou João Gabriel Lopes Aguiar👋
----
-Sou estudante de Engenharia da Computação com uma forte paixão por tecnologia e programação. Tenho experiência em desenvolvimento web e backend, utilizando linguagens como HTML, CSS, Python e Java. Meu foco principal é resolver problemas complexos e criar soluções inovadoras, especialmente nas áreas de ** Inteligência Artificial**, ** desenvolvimento de sites**, ** web design** e **🔧 sistemas inteligentes**.
----
-## Objetivo
-Busco sempre me aprofundar em novas tecnologias e tendências, com especial interesse em **Inteligência Artificial**, **web design**, **desenvolvimento de sites** e **sistemas inteligentes**. Estou motivado a participar de projetos que causem um impacto positivo na sociedade através da tecnologia.
----
-## Habilidades
+<!--título-->
+<div id="user-content-toc">
+  <ul align="center">
+<summary><h1 align="left">Hey 👋 What's up?</h1></summary>
+</div>
 
-- **💻 HTML & CSS**: Criação e estilização de páginas web responsivas e dinâmicas.
-- **🐍 Python**: Desenvolvimento de scripts automatizados, projetos de Inteligência Artificial e integração com hardware.
-- **☕ Java**: Desenvolvimento de aplicações robustas e escaláveis.
-- **🎨 Web Design**: Criação de layouts modernos e intuitivos para melhorar a experiência do usuário.
-- **🤖 Inteligência Artificial**: Interesse em aprendizado de máquina, redes neurais e automação inteligente.
-- **🔧 Sistemas Inteligentes**: Experiência em sistemas voltados para automação, como estacionamento inteligente e IoT.
----
-## Contato
+###
+<!-- Presentation -->
+<p align="left"> 
+  Hi 👋, I'm João! A passionate Data Science student from Brazil.</p>
+🌱 I’m currently studying Desenvolvedor Full Stack Java at Ebac
 
-- Email: [joaogabriellops2353@gmail.com](mailto:joaogabriellops2353@gmail.com)
+- 🔭 I'm looking for my first job opportunity. My dream is to one day work with AI, Machine Learning or Front end.
+
+<!-- Dropdown -->
+<details>
+  <summary>👨‍💻 More about me</summary>
+
+  - 💬 I am 21 years old, currently living in Brazil.I have a good level of English and have experience with Python, Data Analysis, Data visualization, and Machine Learning.
+
+  - ⚡ I enjoy reading—whether it's a good book or comics—as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and enhance problem-solving skills. 😊
+</details>
+
+<!-- Links -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-gabriel-lopes-aguiar-773827244/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/joogabriellopes)
+
+<!-- Portfolio -->
+## Portfolio:
+- [Titanic - Machine Learning from Disaster](https://github.com/JoaoLops3/JoaoLops32.github.io)
+- [California Housing Prices](https://github.com/JoaoLops3/JoaoLops33.github.io)
+- [PalmOil](https://github.com/JoaoLops3/JoaoLops34.github.io)
+
+## 🔥 Skills
+<!-- Skills: Programming Languages -->
+  <div style="flex-basis: 48%;">
+    <h3>Programming Languages</h3>
+    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  </div>
+  
+  <!-- Skills: Tools & Frameworks -->
+  <div style="flex-basis: 48%;">
+    <h3>Tools & Frameworks</h3>
+    <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+    <img align="center" alt="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
+    <img align="center" alt="Chris-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+
+  </div>
+
+
+
+
+
