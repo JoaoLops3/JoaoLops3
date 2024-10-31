@@ -32,7 +32,6 @@
 <!-- GithubStats -->
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoLops3&show_icons=true&theme=gotham)
 
-
 <!-- Portfolio -->
 ## Portfolio:
 - [Titanic - Machine Learning from Disaster](https://github.com/JoaoLops3/JoaoLops32.github.io)
