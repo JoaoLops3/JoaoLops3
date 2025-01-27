@@ -37,6 +37,7 @@
 - [Titanic - Machine Learning from Disaster](https://github.com/JoaoLops3/JoaoLops32.github.io)
 - [California Housing Prices](https://github.com/JoaoLops3/JoaoLops33.github.io)
 - [PalmOil](https://github.com/JoaoLops3/JoaoLops34.github.io)
+- [Projeto 1 com a Ebac](https://github.com/JoaoLops3/PROJETO1-EBAC.git).
 
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
