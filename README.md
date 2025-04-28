@@ -1,16 +1,16 @@
 # 👋 Olá, tudo bem?
 
-Sou o João! Estudante apaixonado por Data Science e Engenharia de Computação, atualmente no Brasil.
+Sou o João! Estudante apaixonado por Data Science, Engenharia de Computação e principalmente por **Front-end**, atualmente no Brasil.
 
-- 🌱 Estudando **Desenvolvedor Full Stack Java** na EBAC.
 - 📚💻 Cursando **Engenharia de Computação** na FACENS (Sorocaba).
-- 🔭 Buscando minha primeira oportunidade de trabalho. Meu sonho é atuar com **IA, Machine Learning ou Front-end**.
+- 🌱 Estudando **Desenvolvedor Full Stack Java** na EBAC.
+- 🔭 Buscando minha primeira oportunidade de trabalho. Meu sonho é atuar com **Front-end, IA ou Machine Learning**.
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-- 💬 Tenho 21 anos, moro no Brasil, bom nível de inglês e experiência com **Python, Análise e Visualização de Dados, e Machine Learning**.
+- 💬 Tenho 21 anos, moro no Brasil, bom nível de inglês e experiência com **React, TypeScript, Python, Análise e Visualização de Dados, e Machine Learning**.
 - ⚡ Gosto de ler (livros e quadrinhos), assistir filmes e jogar. Acredito que nossos interesses pessoais ajudam a refinar nossa percepção e habilidades de resolução de problemas.
 
 ---
@@ -31,6 +31,7 @@ Sou o João! Estudante apaixonado por Data Science e Engenharia de Computação,
 
 ## 🚀 Portfólio
 
+- [**Study-Track3.0**](https://github.com/JoaoLops3/Study-Track3.0) — Plataforma moderna para gerenciamento de estudos e projetos, com foco em produtividade e colaboração.
 - [Titanic - Machine Learning from Disaster](https://github.com/JoaoLops3/JoaoLops32.github.io)
 - [California Housing Prices](https://github.com/JoaoLops3/JoaoLops33.github.io)
 - [PalmOil](https://github.com/JoaoLops3/JoaoLops34.github.io)
@@ -40,18 +41,21 @@ Sou o João! Estudante apaixonado por Data Science e Engenharia de Computação,
 
 ## 🔥 Habilidades
 
-**Linguagens de Programação:**  
+**Front-end:**  
 <span>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="24" height="24" alt="React"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="24" height="24" alt="TypeScript"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="24" height="24" alt="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="24" height="24" alt="Angular"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="24" height="24" alt="HTML"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="24" height="24" alt="CSS"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="24" height="24" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="24" height="24" alt="C"/>
 </span>
 
-**Ferramentas & Frameworks:**  
+**Back-end, Data & Outros:**  
 <span>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="24" height="24" alt="VSCode"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="24" height="24" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="24" height="24" alt="C"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="24" height="24" alt="Jupyter"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="24" height="24" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="24" height="24" alt="VSCode"/>
 </span>
