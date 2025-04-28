@@ -57,5 +57,6 @@ Sou o João! Estudante apaixonado por Data Science, Engenharia de Computação e
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="24" height="24" alt="C"/> C &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="24" height="24" alt="Jupyter"/> Jupyter &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="24" height="24" alt="Git"/> Git &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="24" height="24" alt="VSCode"/> VSCode
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="24" height="24" alt="VSCode"/> VSCode &nbsp;
+  <img src="https://avatars.githubusercontent.com/u/105097074?s=200&v=4" width="24" height="24" alt="Cursor"/> Cursor
 </span>
