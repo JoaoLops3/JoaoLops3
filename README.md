@@ -31,7 +31,7 @@ Sou o João! Estudante apaixonado por Data Science, Engenharia de Computação e
 
 ## 🚀 Portfólio
 
-- [**Study-Track3.0**](https://github.com/JoaoLops3/Study-Track3.0) — Plataforma moderna para gerenciamento de estudos e projetos, com foco em produtividade e colaboração.
+- [**Study-Track3.0**](https://github.com/JoaoLops3/Study-Track3.0)
 - [Titanic - Machine Learning from Disaster](https://github.com/JoaoLops3/JoaoLops32.github.io)
 - [California Housing Prices](https://github.com/JoaoLops3/JoaoLops33.github.io)
 - [PalmOil](https://github.com/JoaoLops3/JoaoLops34.github.io)
