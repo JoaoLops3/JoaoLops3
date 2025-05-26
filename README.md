@@ -10,7 +10,7 @@ Sou o João! Estudante apaixonado por Data Science, Engenharia de Computação e
 
 ## 👨‍💻 Sobre mim
 
-- 💬 Tenho 21 anos, moro no Brasil, bom nível de inglês e experiência com **React, TypeScript, Python, Análise e Visualização de Dados, e Machine Learning**.
+- 💬 Tenho 22 anos, moro no Brasil, bom nível de inglês e experiência com **React, TypeScript, Python, Análise e Visualização de Dados, e Machine Learning**.
 - ⚡ Gosto de ler (livros e quadrinhos), assistir filmes e jogar. Acredito que nossos interesses pessoais ajudam a refinar nossa percepção e habilidades de resolução de problemas.
 
 ---
