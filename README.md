@@ -1,61 +1,142 @@
-# 👋 Olá, tudo bem?
+# 👋 Olá, eu sou o João!
 
-Sou o João! Estudante apaixonado por Data Science, Engenharia de Computação e principalmente por **Front-end**, atualmente no Brasil.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Desenvolvedor+Front-end;Angular+%7C+TypeScript+%7C+Ionic;Data+Science+Enthusiast" alt="Typing SVG" />
+</div>
 
-- 📚💻 Cursando **Engenharia de Computação** na FACENS (Sorocaba).
-- 🌱 Estudando **Desenvolvedor Full Stack Java** na EBAC.
-- 🔭 Buscando minha primeira oportunidade de trabalho. Meu sonho é atuar com **Front-end, IA ou Machine Learning**.
+## 🚀 Sobre mim
+
+Sou um **Desenvolvedor Front-end** com experiência em desenvolvimento de aplicações web e mobile. Especializado em **Angular, TypeScript e Ionic**, sou apaixonado por criar experiências digitais intuitivas e escaláveis. Atualmente cursando **Engenharia de Computação** na FACENS e complementando minha formação com **Desenvolvimento Full Stack Java** na EBAC.
+
+### 🎯 Objetivos
+
+- **Atualmente trabalhando** como desenvolvedor Front-end com Angular, TypeScript e Ionic
+- Desenvolvendo aplicações web e mobile com foco em experiência do usuário
+- Aprendendo constantemente novas tecnologias e metodologias ágeis
+- **Aberto a novas oportunidades** que ofereçam crescimento profissional e desafios técnicos
 
 ---
 
-## 👨‍💻 Sobre mim
+## 💼 Projetos em Destaque
 
-- 💬 Tenho 22 anos, moro no Brasil, bom nível de inglês e experiência com **React, TypeScript, Python, Análise e Visualização de Dados, e Machine Learning**.
-- ⚡ Gosto de ler (livros e quadrinhos), assistir filmes e jogar. Acredito que nossos interesses pessoais ajudam a refinar nossa percepção e habilidades de resolução de problemas.
+### 🕐 [ChronoPulse](https://github.com/JoaoLops3/ChronoPulse) - App de Gerenciamento de Tempo
+
+<div align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+</div>
+
+**Aplicação web moderna** para gerenciamento de tempo de vida e atividades diárias. Desenvolvido com React, TypeScript e interface elegante usando shadcn/ui.
+
+**✨ Funcionalidades:**
+
+- 📊 Dashboard com estatísticas em tempo real
+- ⏰ Rastreamento de atividades por categoria
+- 📈 Análise detalhada de tempo gasto
+- 📱 Design responsivo e tema escuro/claro
+- 🔐 Sistema de autenticação
+- 🎨 Interface moderna com shadcn/ui
+
+### 📚 [Study-Track3.0](https://github.com/JoaoLops3/Study-Track3.0)
+
+Sistema de rastreamento de estudos com análise de produtividade e métricas de aprendizado. Desenvolvido com foco em UX/UI e análise de dados para otimizar o processo de estudo.
+
+### 🤖 Projetos de Machine Learning
+
+- [Titanic - Machine Learning from Disaster](https://github.com/JoaoLops3/JoaoLops32.github.io)
+- [California Housing Prices](https://github.com/JoaoLops3/JoaoLops33.github.io)
+- [PalmOil](https://github.com/JoaoLops3/JoaoLops34.github.io)
 
 ---
 
-## 📫 Contato
+## 🛠️ Stack Tecnológica
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-gabriel-lopes-aguiar-773827244/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/joogabriellopes)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaogabriellops2353@gmail.com)
+### **Front-end**
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" alt="Ionic" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+</div>
+
+### **Back-end & Data Science**
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+</div>
+
+### **Ferramentas & DevOps**
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+</div>
 
 ---
 
 ## 📊 Estatísticas do GitHub
 
-![JoaoLops3 GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoLops3&show_icons=true&theme=gotham)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JoaoLops3&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF&icon_color=3B82F6" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoLops3&theme=radical&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
+</div>
 
 ---
 
-## 🚀 Portfólio
+## 🎓 Formação & Experiência
 
-- [**Study-Track3.0**](https://github.com/JoaoLops3/Study-Track3.0)
-- [Titanic - Machine Learning from Disaster](https://github.com/JoaoLops3/JoaoLops32.github.io)
-- [California Housing Prices](https://github.com/JoaoLops3/JoaoLops33.github.io)
-- [PalmOil](https://github.com/JoaoLops3/JoaoLops34.github.io)
-- [Projeto 1 com a Ebac](https://github.com/JoaoLops3/PROJETO1-EBAC.git)
+- **💼 Desenvolvedor Front-end** - Experiência com Angular, TypeScript e Ionic
+- **🎓 Engenharia de Computação** - FACENS (Sorocaba) - Em andamento
+- **🌱 Desenvolvimento Full Stack Java** - EBAC - Em andamento
+- **💡 22 anos** - Brasil
+- **🌍 Inglês Intermediário **
+- **🎯 Especialização:** Front-end, Mobile Development, IA e Machine Learning
 
 ---
 
-## 🔥 Habilidades
+## 🎨 Interesses Pessoais
 
-**Front-end:**  
-<span>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="24" height="24" alt="React"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="24" height="24" alt="TypeScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="24" height="24" alt="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="24" height="24" alt="Angular"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="24" height="24" alt="HTML"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="24" height="24" alt="CSS"/>
-</span>
+Quando não estou codando, você me encontra:
 
-**Back-end, Data & Outros:**  
-<span>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="24" height="24" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="24" height="24" alt="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="24" height="24" alt="Jupyter"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="24" height="24" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="24" height="24" alt="VSCode"/>
-</span>
+- 📖 Lendo livros e quadrinhos
+- 🎬 Assistindo filmes e documentários
+- 🎮 Jogando videogames
+- 🧠 Explorando novas tecnologias e frameworks
+
+_Acredito que nossos interesses pessoais ajudam a refinar nossa percepção e habilidades de resolução de problemas, essenciais para o desenvolvimento de software._
+
+---
+
+## 📫 Vamos Conectar!
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-gabriel-lopes-aguiar-773827244/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.kaggle.com/joogabriellopes">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" />
+  </a>
+  <a href="mailto:joaogabriellops2353@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=JoaoLops3&style=flat-square&color=3B82F6" alt="Profile Views" />
+  
+  *Obrigado por visitar meu perfil! 👋*
+</div>
