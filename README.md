@@ -87,11 +87,14 @@ Sistema de rastreamento de estudos com análise de produtividade e métricas de 
 
 ## 📊 Estatísticas do GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoaoLops3&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF&icon_color=3B82F6" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoLops3&theme=radical&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
-</div>
+![João Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoLops3&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoLops3&layout=compact&theme=radical)
+
+## 🌟 Contribuições
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JoaoLops3&theme=radical)
+
 
 ---
 
