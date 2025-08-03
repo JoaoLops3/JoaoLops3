@@ -103,7 +103,6 @@ Sistema de rastreamento de estudos com análise de produtividade e métricas de 
 - **💼 Desenvolvedor Front-end** - Experiência com Angular, TypeScript e Ionic
 - **🎓 Engenharia de Computação** - FACENS (Sorocaba) - Em andamento
 - **🌱 Desenvolvimento Full Stack Java** - EBAC - Em andamento
-- **💡 22 anos** - Brasil
 - **🌍 Inglês Intermediário **
 - **🎯 Especialização:** Front-end, Mobile Development, IA e Machine Learning
 
