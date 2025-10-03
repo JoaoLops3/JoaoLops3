@@ -17,40 +17,6 @@ Sou um **Desenvolvedor Front-end** com experiência em desenvolvimento de aplica
 
 ---
 
-## 💼 Projetos em Destaque
-
-### 🕐 [ChronoPulse](https://github.com/JoaoLops3/ChronoPulse) - App de Gerenciamento de Tempo
-
-<div align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-</div>
-
-**Aplicação web moderna** para gerenciamento de tempo de vida e atividades diárias. Desenvolvido com React, TypeScript e interface elegante usando shadcn/ui.
-
-**✨ Funcionalidades:**
-
-- 📊 Dashboard com estatísticas em tempo real
-- ⏰ Rastreamento de atividades por categoria
-- 📈 Análise detalhada de tempo gasto
-- 📱 Design responsivo e tema escuro/claro
-- 🔐 Sistema de autenticação
-- 🎨 Interface moderna com shadcn/ui
-
-### 📚 [Study-Track3.0](https://github.com/JoaoLops3/Study-Track3.0)
-
-Sistema de rastreamento de estudos com análise de produtividade e métricas de aprendizado. Desenvolvido com foco em UX/UI e análise de dados para otimizar o processo de estudo.
-
-### 🤖 Projetos de Machine Learning
-
-- [Titanic - Machine Learning from Disaster](https://github.com/JoaoLops3/JoaoLops32.github.io)
-- [California Housing Prices](https://github.com/JoaoLops3/JoaoLops33.github.io)
-- [PalmOil](https://github.com/JoaoLops3/JoaoLops34.github.io)
-
----
-
 ## 🛠️ Stack Tecnológica
 
 ### **Front-end**
