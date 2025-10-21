@@ -4,6 +4,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Desenvolvedor+Front-end;" alt="Typing SVG" />
 </div>
 
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoLops3&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="JoaoLops3" /></p>
+
 ## 🚀 Sobre mim
 
 Sou um **Desenvolvedor Front-end** com experiência em desenvolvimento de aplicações web e mobile. Especializado em **Angular, TypeScript e Ionic**, sou apaixonado por criar experiências digitais intuitivas e escaláveis. Atualmente cursando **Engenharia de Computação** na FACENS e complementando minha formação com **Desenvolvimento Full Stack Java** na EBAC.
