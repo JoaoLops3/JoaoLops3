@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="https://capsule-render.herokuapp.com/main?type=wave&color=auto&height=250&section=header&text=Jo%C3%A3o%20Gabriel&fontSize=50&theme=dark&fontColor=9B5DE5&animation=twinkling" alt="Capsule Render Wave Banner" />
-</div>
-
-<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9B5DE5&center=true&vCenter=true&width=550&lines=Front-End+Software+Engineer;Angular,+Ionic+%26+TypeScript;AI+%26+Machine+Learning;Full-Stack+Java+Developer" alt="Typing SVG" />
 </div>
 
