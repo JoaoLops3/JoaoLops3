@@ -77,7 +77,22 @@ My path also includes data science: at the Brain innovation lab, I developed pre
 ---
 
 ## 4. Featured Project
+<details>
+<summary><b>📱 Caash Fácil / Famillycard (Fintech Mobile Application)</b></summary>
 
+### Mobile Financial Solution
+A comprehensive, secure mobile financial system designed for streamlined user microtransactions and account management. 
+
+| Dimension | Details |
+| :--- | :--- |
+| **Stack** | Mobile Frameworks, TypeScript, Node.js, Secure Storage APIs |
+| **Scale** | Multi-platform production financial mobile client |
+| **Performance** | Optimized app launch sequences, state rendering, and lightweight secure communication |
+| **Security** | Adherence to strict Apple/Google Store compliance and local biometric security |
+| **Impact** | Successfully addressed licensing and UI validation hurdles for store deployment compliance |
+
+🖥️ **Repository:** Private Commercial System
+</details>
 <details open>
 <summary><b>🚂 Trilho (Routine / Productivity App)</b></summary>
 
