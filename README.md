@@ -29,6 +29,11 @@
 
 ---
 
+## 🚀 Contribution Game
+![My GitHub Game](gh-space-shooter.gif)
+
+---
+
 ## 2. About Me
 
 I am a Front-End Developer and Computer Engineering student at FACENS with a strong foundation in building scalable, intuitive, and high-performance digital experiences. Specializing in modern web and mobile architectures using Angular, TypeScript, and Ionic, I am passionate about writing clean, maintainable code that bridges the gap between robust logic and flawless user interfaces. My engineering background is complemented by ongoing specialization in Full Stack Java development at EBAC, allowing me to approach software design with a comprehensive, end-to-end product mindset. 
