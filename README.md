@@ -94,21 +94,22 @@ A comprehensive, secure mobile financial system designed for streamlined user mi
 🖥️ **Repository:** Private Commercial System
 </details>
 <details open>
-<summary><b> Trilho (Routine / Productivity App)</b></summary>
+<summary><b>Trilho — Routine / Productivity App</b></summary>
 
-### Personal Product — In Progress
-A routine and productivity app built from a real need: organizing vacation days during college break. Focused on a clear agenda, progress stats, and gamification.
+### Personal Product
+Daily routine app for people who struggle with focus and consistency, including ADHD friendly onboarding. Built with Ionic, React, Capacitor, TypeScript, Supabase, and PostHog.
 
 | Dimension | Details |
 | :--- | :--- |
-| **Concept** | Personal routine tracker with a customizable profile and day agenda |
-| **Gamification** | Animated train that reflects daily completion status (on time vs delayed) |
-| **Status** | In progress — not a final release yet |
-| **Focus** | Product design, UX, and front-end experience |
+| **Repository** | [github.com/JoaoLops3/Trilho](https://github.com/JoaoLops3/Trilho) — public, MIT |
+| **Concept** | Local-first day agenda, recurring routines, real stats, and a non-punitive streak |
+| **Gamification** | Animated train reflects daily completion (on time vs delayed) |
+| **Backend** | Supabase Auth + Postgres with RLS; offline-first sync to the cloud |
+| **Quality** | 132 Vitest unit tests + CI guardrails (sync, auth, security, UI feedback, brand) |
+| **Status** | Core product complete on `main`; active polish — App Store submission next |
+| **Focus** | Mobile UX, design system, offline resilience, accessibility (WCAG AA) |
 
 </details>
-
----
 
 ## 5. Experience
 
