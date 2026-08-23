@@ -78,7 +78,7 @@ My path also includes data science: at the Brain innovation lab, I developed pre
 
 ## 4. Featured Project
 <details>
-<summary><b>📱 Caash Fácil / Famillycard (Fintech Mobile Application)</b></summary>
+<summary><b> Caash Fácil / Famillycard (Fintech Mobile Application)</b></summary>
 
 ### Mobile Financial Solution
 A comprehensive, secure mobile financial system designed for streamlined user microtransactions and account management. 
@@ -94,7 +94,7 @@ A comprehensive, secure mobile financial system designed for streamlined user mi
 🖥️ **Repository:** Private Commercial System
 </details>
 <details open>
-<summary><b>🚂 Trilho (Routine / Productivity App)</b></summary>
+<summary><b> Trilho (Routine / Productivity App)</b></summary>
 
 ### Personal Product — In Progress
 A routine and productivity app built from a real need: organizing vacation days during college break. Focused on a clear agenda, progress stats, and gamification.
